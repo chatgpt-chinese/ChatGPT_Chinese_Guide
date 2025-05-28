@@ -1,11 +1,11 @@
 # 别再找了！最全 ChatGPT 4/4o 中文版官网+国内使用指南（附免费链接）
 
-> **更新时间： 2025/05/28**                      
+> **更新时间： 2025/05/29**                      
 
 本文提供 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，推荐**国内直连**的 **[ChatGPT 镜像网站](https://xsimplechat.com)**，**支持GPT-4，无需翻墙**。   
 本项目为用户提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，同时整理了国内可用的 [**ChatGPT镜像网站**](https://chat.lanjing.pro) 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
-**ChatGPT 中文版**入口：**[https://chat.chatgpt-chinese.com](https://chat.lanjing.pro)**   
+**ChatGPT 中文版**入口：**[https://chat.lanjingai.org](https://chat.lanjing.pro)**   
 **ChatGPT 镜像网站**：**[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
